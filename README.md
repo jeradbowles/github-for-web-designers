@@ -5,4 +5,4 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 
 # github-for-web-designers
 
-##[View the companion reference site](-copy link from github-)
+##[View the companion reference site](https://github.com/jeradbowles/github-for-web-designers)
